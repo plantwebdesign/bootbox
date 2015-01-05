@@ -3,6 +3,7 @@
   "private": true,
   "version": "4.2.0",
   "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using the Bootstrap framework",
+  "main": "bootbox.js",
   "directories": {
     "test": "tests"
   },
